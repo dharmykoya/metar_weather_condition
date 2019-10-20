@@ -24,7 +24,7 @@ API that returns the weather condition of a particular station passed as paramet
 2. Clone this repo
 
 ```bash
-$ git clone https://github.com/dharmykoya/metar.git
+$ git clone https://github.com/dharmykoya/metar_weather_condition.git
 ```
 
 3. Start and Activate Virtual environment make sure you have a venv installed or any other environment for python
