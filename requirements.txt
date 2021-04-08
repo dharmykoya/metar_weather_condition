@@ -2,7 +2,7 @@ astroid==2.3.2
 autopep8==1.4.4
 certifi==2019.9.11
 chardet==3.0.4
-Django==2.2.6
+Django==2.2.20
 django-redis==4.10.0
 djangorestframework==3.10.3
 idna==2.8
